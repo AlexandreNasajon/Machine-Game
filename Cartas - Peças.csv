@@ -1,6 +1,6 @@
 Recebe,Texto,Retorna,Quantidade
 ,"T = 1",T,5
-,"",T,4
+,"Você pode descartar uma carta da sua mão. Se fizer isso, então T = 3.",T,4
 ,"",T,4
 ,"",Q,1
 T,"T = T+1",T,4
@@ -27,7 +27,7 @@ T,"Se T > 3, então C = Olhe as duas cartas do topo do deck. Coloque uma na sua 
 T,"Se T > 4, então C = Compre duas cartas.",C,1
 T,"Se T > 5, então C = Você pode jogar uma carta da sua mão.",C,1
 T,"Se T > 6, então C = Compre três cartas.",C,1
-T,"Se T == 4, então C = ",C,1
+T,"Se T == 4, então C = você pode colocar uma carta da pilha de descarte na sua mão.",C,1
 T,"Se T == 5, então C = ",C,1
 T,"Se T == 6, então C =",C,1
 T,"",C,1
