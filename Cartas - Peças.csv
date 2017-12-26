@@ -1,6 +1,7 @@
 Recebe,Texto,Retorna,Quantidade
-,"T = 1",T,3
-,"",T,1
+,"T = 1",T,5
+,"",T,4
+,"",T,4
 ,"",Q,1
 T,"T = T+1",T,3
 T,"T = 2T",T,2
@@ -20,7 +21,7 @@ Q,"Se Q == true, então T = 5.",T,1
 Q,"Se Q == true, então T = T+3.",T,1
 Q,"Se Q == true, então N = quantidade de peças nesta máquina. T = N.",T,1
 Q,"N = quantidade de máquinas que você controla. T = N.",T,1
-Q,"Se Q == false, então Q == true.",Q,'
+Q,"Se Q == false, então Q == true.",Q,1
 T,"Se T > 2, então C = Compre uma carta.",C,3
 T,"Se T > 3, então C = Olhe as duas cartas do topo do deck. Coloque uma na sua mão e a outra no fundo do deck.",C,1
 T,"Se T > 4, então C = Compre duas cartas.",C,1
