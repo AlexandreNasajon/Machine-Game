@@ -1,39 +1,39 @@
-Recebe,Texto,Retorna
-,"T = 2",T
-,"Coloque quantas cartas quiser da sua mão no fundo do deck. T = quantidade de cartas.",T
-,"T = quantidade de máquinas que você controla.",T
-,"T = quantidade de peças nesta máquina.",T
-,"",T
-,"",T
-,"",T
-,"",T
-,"",T
-,"",T
-,"",Q
-,"",Q
-,"",Q
-T,"",T
-T,"",T
-T,"",T
-T,"",T
-T,"",T
-T,"",T
-T,"",Q
-T,"",Q
-T,"",Q
-T,"",Q
-Q,"Se Q == true, então T = quantidade de cartas na sua mão.",T
-Q,"Se Q == true, então T = 5.",T
-Q,"Se Q == true, então T = T+3.",T
-Q,"",T
-T,"",C
-T,"",C
-T,"",C
-T,"",C
-T,"",C
-T,"",C
-Q,"",C
-Q,"",C
-Q,"",C
-Q,"",C
-Q,"Se Q == true, então C = você pode rodar outra máquina sua uma vez adicional neste turno.",C
+Recebe,Texto,Retorna,Quantidade
+,"T = 1",T,3
+,"Coloque quantas cartas quiser da sua mão no fundo do deck. T = quantidade de cartas.",T,1
+,"T = quantidade de máquinas que você controla.",T,1
+,"T = quantidade de peças nesta máquina.",T,1
+,"",T,1
+,"",T,1
+,"",T,1
+,"",T,1
+,"",T,1
+,"",T,1
+,"",Q,1
+,"",Q,1
+,"",Q,1
+T,"T = T+1",T,1
+T,"T = T+1",T,1
+T,"",T,1
+T,"",T,1
+T,"",T,1
+T,"",T,1
+T,"",Q,1
+T,"",Q,1
+T,"",Q,1
+T,"",Q,1
+Q,"Se Q == true, então T = quantidade de cartas na sua mão.",T,1
+Q,"Se Q == true, então T = 5.",T,1
+Q,"Se Q == true, então T = T+3.",T,1
+Q,"",T,1
+T,"",C,1
+T,"",C,1
+T,"",C,1
+T,"",C,1
+T,"",C,1
+T,"",C,1
+Q,"",C,1
+Q,"",C,1
+Q,"",C,1
+Q,"",C,1
+Q,"Se Q == true, então C = você pode rodar outra máquina sua uma vez adicional neste turno.",C,,1
