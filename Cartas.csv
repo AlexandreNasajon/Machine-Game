@@ -1,13 +1,24 @@
 Recebe,Texto,Retorna
+--BASE
 ,"T = 2",T
 ,"Descarte quantas cartas quiser da sua mão. T = quantidade de cartas descartadas assim.",T
 ,"",T
 ,"",T
+,"",T
+,"",T
 ,"",Q
 ,"",Q
 ,"",Q
+--MEIO
 T,"",T
 T,"",T
 T,"",T
 T,"",Q
 T,"",Q
+--FINAL
+T,"",C
+T,"",C
+T,"",C
+Q,"",C
+Q,"",C
+Q,"",C
