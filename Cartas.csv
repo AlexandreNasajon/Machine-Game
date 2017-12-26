@@ -1,6 +1,10 @@
 Recebe,Texto,Retorna
 ,"T = 2",T
-,"Descarte quantas cartas quiser da sua mão. T = quantidade de cartas descartadas assim.",T
+,"Coloque quantas cartas quiser da sua mão no fundo do deck. T = quantidade de cartas.",T
+,"T = quantidade de máquinas que você controla.",T
+,"T = quantidade de peças nesta máquina.",T
+,"",T
+,"",T
 ,"",T
 ,"",T
 ,"",T
@@ -8,14 +12,28 @@ Recebe,Texto,Retorna
 ,"",Q
 ,"",Q
 ,"",Q
+T,"",T
+T,"",T
+T,"",T
 T,"",T
 T,"",T
 T,"",T
 T,"",Q
 T,"",Q
+T,"",Q
+T,"",Q
+Q,"Se Q == true, então T = quantidade de cartas na sua mão.",T
+Q,"Se Q == true, então T = 5.",T
+Q,"Se Q == true, então T = T+3.",T
+Q,"",T
+T,"",C
+T,"",C
+T,"",C
 T,"",C
 T,"",C
 T,"",C
 Q,"",C
 Q,"",C
 Q,"",C
+Q,"",C
+Q,"Se Q == true, então C = você pode rodar outra máquina sua uma vez adicional neste turno.",C
