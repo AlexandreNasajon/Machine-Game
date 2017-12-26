@@ -27,10 +27,10 @@ T,"Se T > 3, então C = Olhe as duas cartas do topo do deck. Coloque uma na sua 
 T,"Se T > 4, então C = Compre duas cartas.",C,1
 T,"Se T > 5, então C = Você pode jogar uma carta da sua mão.",C,1
 T,"Se T > 6, então C = Compre três cartas.",C,1
-T,"Se T == 4, então C = você pode colocar uma carta da pilha de descarte na sua mão.",C,1
-T,"Se T == 5, então C = ",C,1
-T,"Se T == 6, então C =",C,1
+T,"Se T == 4, então C = Você pode colocar uma carta da pilha de descarte na sua mão.",C,1
+T,"Se T == 5, então C = Compre três cartas, depois descarte uma carta da sua mão.",C,1
+T,"Se T == 6, então C = Compre quatro cartas, depois descarte duas cartas da sua mão.",C,1
 T,"",C,1
-Q,"Se Q == true, então C = você pode rodar outra máquina sua uma vez adicional neste turno.",C,1
+Q,"Se Q == true, então C = Você pode rodar outra máquina sua uma vez adicional neste turno.",C,1
 Q,"",C,1
 
