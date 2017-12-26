@@ -3,15 +3,15 @@ Recebe,Texto,Retorna,Quantidade
 ,"",T,4
 ,"",T,4
 ,"",Q,1
-T,"T = T+1",T,3
+T,"T = T+1",T,4
 T,"T = 2T",T,2
 T,"Se T < 3, então T = 3.",T,1
 T,"Se T < 4, então T = T+2.",T,1
 T,"Se T > 2, então T = T+2.",T,1
 T,"Se T > 3, então T = T+3.",T,1
 T,"Se T == 2,então T = 4.",T,1
-T,"Se T == 3, então Q = true.",Q,1
-T,"Se T == 4, então Q = true.",Q,1
+T,"N = quantidade de cartas na sua mão. Se T >= N, então Q = true.",Q,1
+T,"N = quantidade de peças nesta máquina. Se T >= N, então Q = true.",Q,1
 T,"Se T > 4, então Q = true.",Q,1
 T,"Se T < 6, então Q = true.",Q,1
 T,"Se T for par, então Q = true.",Q,1
