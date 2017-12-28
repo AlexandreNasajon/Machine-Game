@@ -17,8 +17,7 @@ T,"Se T < 6, então Q = true.",Q,1
 T,"Se T é par, então Q = true.",Q,1
 T,"Se T é ímpar, então Q = true.",Q,1
 Q,"Se Q == true, então T = quantidade de cartas na sua mão.",T,1
-Q,"Se Q == true, então T = 5.",T,1
-Q,"Se Q == true, então T = T+3.",T,1
+Q,"Se Q == true, então T = 5.",T,2
 Q,"Se Q == true, então T = quantidade de peças nesta máquina.",T,1
 Q,"Se Q == true, então T = quantidade de máquinas que você controla.",T,1
 Q,"Se Q == false, então Q == true.",Q,1
