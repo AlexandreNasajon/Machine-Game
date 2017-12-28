@@ -23,7 +23,7 @@ Q,"Se Q == true, então T = quantidade de peças nesta máquina.",T,1
 Q,"Se Q == true, então T = quantidade de máquinas que você controla.",T,1
 Q,"Se Q == false, então Q == true.",Q,1
 T,"Se T > 2, então C = Compre uma carta.",C,3
-T,"Se T > 3, então C = Você pode trocar uma carta da sua mão por uma carta da pilha de descarte.",C,1
+T,"Se T > 3, então C = Você pode trocar uma carta da sua mão por uma carta da pilha de descarte.",C,2
 T,"Se T > 4, então C = Compre duas cartas.",C,2
 T,"Se T > 4, então C = Você pode colocar uma carta da pilha de descarte na sua mão.",C,2
 T,"Se T > 5, então C = Você pode jogar uma carta da sua mão.",C,1
