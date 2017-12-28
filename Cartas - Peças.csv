@@ -2,7 +2,9 @@ Recebe,Texto,Retorna,Qty
 ,"T = 1",T,5
 ,"Você pode descartar uma carta da sua mão. Se fez isso, então T = 3.",T,3
 ,"Se você tem cinco ou menos cartas na mão, então T = 2.",T,3
+,"Se você tem cinco ou mais cartas na mão, então T = 3.",T,1
 ,"Se você controla três ou menos máquinas, então T = 2.",T,3
+,"Se você controla três ou mais máquinas, então T = 3.",T,1
 ,"Se você tem sete ou mais cartas na mão, então Q = true.",Q,1
 ,"Se você têm três ou mais objetivos revelados, então Q = true.",Q,1
 T,"T = T+1",T,5
