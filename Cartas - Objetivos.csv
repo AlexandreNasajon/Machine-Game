@@ -3,7 +3,7 @@ Objetivo,Recompensa
 "Controlar uma máquina que retorne algum T > 4.","Compre duas cartas."
 "Controlar uma máquina que retorne algum T > 6.","Compre três cartas."
 "Controlar duas máquinas que retornem cada uma T = 2.","Você pode devolver todas as cartas de uma máquina que você controla para a sua mão."
-"Controlar uma máquina que retorne T = 2 e uma máquina que retorne T = 3.","Cada oponente revela uma carta de objetivo que controla; isto não conta como se o objetivo tivesse sido cumprido."
+"Controlar uma máquina que retorne T = 2 e uma máquina que retorne T = 3.","Você pode olhar uma carta de objetivo aleatória de cada jogador."
 "Controlar três máquinas que retornem algum C.","Escolha um oponente; ele ou ela escolhe uma carta da própria mão; coloque a carta escolhida na sua mão."
 "Controlar três peças que retornem algum Q.","Você pode embaralhar as cartas da sua mão no deck e comprar cinco cartas."
 "Controlar uma máquina com três ou menos peças que retorne Q = true.","Compre três cartas, depois descarte uma carta."
