@@ -20,6 +20,8 @@ Turno
      2.1 - Se a carta não "receber" nenhum valor, ela pode ser colocada em qualquer lugar;
      2.2 - Se a carta "receber" algum valor (Triângulo ou Quadrado), ela deve ser colocada à direita de uma outra carta que "retorne" aquele valor.
    3 - O jogador pode rodar as máquinas que controla.
+    Uma máquina é qualquer conjunto de peças que estejam ligadas.
+      Duas peças ligadas já contam como uma máquina.
     Para rodar uma máquina, o jogador deve seguir os comandos de cada peça daquela máquina, começando pela esquerda e terminando na direita.
    4 - O jogador pode revelar uma carta de objetivo que controla, desde que tenha cumprido o objetivo.
     Ao revelar uma carta de objetivo por tê-lo cumprido, o jogador recebe a recompensa daquela carta.
