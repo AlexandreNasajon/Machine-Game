@@ -1,7 +1,7 @@
 Recebe,Texto,Retorna,Qty
 ,"T = 1",T,5
 ,"Você pode descartar uma carta da sua mão. Se fizer isso, então T = 3.",T,4
-,"",T,4
+,"Se esta peça não tiver nenhuma energia, coloque uma energia nela e T = 0. Se esta peça tiver uma ou mais energias, remova todas e T = energias removidas.",T,4
 ,"",Q,1
 T,"T = T+1",T,4
 T,"T = 2T",T,2
