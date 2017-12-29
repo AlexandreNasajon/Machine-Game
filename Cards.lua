@@ -6,7 +6,7 @@ Cards.move = function(self)
 
 end
 
-Cards.draw = function(self)
+Cards.new.draw = function(self)
     print(,self.name,)
     print(self.left,self.text,self.right)
 end
