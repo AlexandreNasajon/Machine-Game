@@ -25,7 +25,7 @@ Cards.p01 = {
     name = "P-0.1",
     left = "T",
     right = "Q",
-    text = "If T == 1, then return Q = true."
+    text = "If T = 1, then return Q = true."
     effect = function(left)
         if t == 1 then
             return q = true
