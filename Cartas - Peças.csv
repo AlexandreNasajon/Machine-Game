@@ -12,8 +12,7 @@ T,"T = 2T",T,2
 T,"Se T < 3, então T = 3.",T,1
 T,"Se T < 4, então T = T+2.",T,1
 T,"Se T > 2, então T = T+2.",T,1
-T,"Se T > 4, então Q = true.",Q,1
-T,"Se T < 6, então Q = true.",Q,1
+T,"Se T > 4, então Q = true.",Q,2
 T,"Se T é par, então Q = true.",Q,1
 T,"Se T é ímpar, então Q = true.",Q,1
 Q,"Se Q == true, então T = quantidade de cartas na sua mão.",T,1
